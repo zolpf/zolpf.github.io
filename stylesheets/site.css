@@ -1,0 +1,144 @@
+body {
+margin: 10px 0 0 0; 
+padding: 0;
+font-family: "Lucida Grande", verdana, arial, helvetica, sans-serif;
+color: #333;
+background: #fff url(../images/topbluefade.gif) repeat-x;
+text-align: center;
+}
+
+h1 {
+	font-size:37pt;
+	color:black;
+	font-weight:bold;
+	margin:0;
+	padding:0;
+}
+
+h2 {
+	font-size:27pt;
+	color:#333;
+	font-weight:bold;
+	margin:0;
+	padding-bottom:10px;
+}
+
+#header {
+	width:600px;
+	text-align:center;
+	margin: 0 auto;
+	color:#808080;
+	font-size:14pt;
+	padding-bottom:20px;
+}
+
+#announce {
+        text-align: center;
+        background-color: #981A21;
+        font-size: 10pt;
+        padding: 5px;
+        color: #fff;
+}
+
+#slivers {
+        text-align: center;
+        background:url("../images/herobackground.gif") repeat-x;
+        border-bottom: 2px solid #F6E69F;
+        padding: 10px;
+        margin-bottom: 30px;
+}
+
+#quote-show {
+        font-size: 16px;
+        width: 600px;
+        font-weight: normal;
+        margin: 40px auto 30px auto;
+        line-height: 140%;
+        text-align: center;
+        margin-top: 10px;
+        font-family: georgia;
+}
+
+#quote-show cite {
+  color: #999;
+  font-size: 14px;
+  font-style: italic;
+}
+
+
+body.overview div.content p a {
+        color: #369;
+}
+
+body.overview cite {
+        font-size: 14px;
+        color: #A69E8A;
+}
+
+body.overview cite a, body.overview cite a:visited {
+        font-size: 14px;
+        color: #A69E8A;
+}
+
+.clearall, .clearallrule {
+        margin: 0 0 10px;
+        padding: 10px 0 0 0;
+        clear: both;
+        font-size: 2px;
+}
+
+div.content {
+		font-family: Georgia;
+        width: 700px;
+        margin: 40px auto 0px auto;
+        text-align: left;
+}
+
+
+div.content div.sub {
+        float: left;
+        width: 200px;
+        text-align: right;
+}
+
+div.content div.sub h1 {
+        font-size: 20pt;
+        font-weight: normal;
+        text-align: right;
+}
+
+div.content div.main {
+        float: right;
+        width: 450px;
+}
+
+div.content p {
+        font-size: 14pt;
+        font-weight: normal;
+        line-height: 140%;
+        margin-top: 0;
+        margin-bottom: 25px;
+}
+
+div.copyright {
+  font-size: 11px;
+  color: #666;
+}
+
+div.copyright a{
+	color:#4682b4;
+	text-decoration:none;
+}
+
+div.copyright a:hover {
+	text-decoration:underline;
+}
+
+.sevendays {
+	font-style:italic;
+	color:#6495ED;
+}
+
+.contactdetails {
+	color:#a9a9a9;
+}
