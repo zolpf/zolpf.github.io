@@ -13,3 +13,38 @@ h1 {
   padding-top: 3px;
   padding-bottom:3px;
 }
+
+h4, h2 {
+  text-align: center;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+body {
+  margin-bottom: 30px;
+}
+
+.testimonial_logo {
+  float:left;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.person {
+  font-style: italic;
+  margin-top:15px;
+}
+
+.personcompany {
+  font-style: italic;
+  font-weight: bold;
+}
+
+.companyname {
+  font-size: 16px;
+  color: #000;
+  font-weight: bold;
+}
+
