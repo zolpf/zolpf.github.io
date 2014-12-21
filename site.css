@@ -1,0 +1,15 @@
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.fullwidth {
+  width: 100%;
+}
+
+.topbar {
+  background-color: #000;
+  color: #fff;
+  padding-top: 3px;
+  padding-bottom:3px;
+}
