@@ -3,6 +3,22 @@ h1 {
   text-transform: uppercase;
 }
 
+.homeheader {
+  width: 100%;
+}
+
+.copyright {
+color: #ccc;
+font-size:12px;
+margin-top: 25px;
+}
+
+@media (min-width: 1199px) {
+  .panel-body {
+    min-height: 120px;
+  }
+}
+
 .fullwidth {
   width: 100%;
 }
@@ -30,6 +46,7 @@ body {
   float:left;
   margin-right: 20px;
   margin-bottom: 20px;
+  width: 100%;
 }
 
 .person {
